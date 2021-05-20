@@ -16,6 +16,15 @@ Designers of online search and recommendation services often need to develop met
 
 *Brian St. Thomas* is a data scientist at Spotify in Boston, researching online experimentation methods and metric development. He received his PhD in Statistical Science from Duke University, and was previously a Data Scientist in TiVo's Advanced Search and Recommendations Division. His primary research interests are in the development and evaluation of personalized recommendation and search systems, with a focus on statistical aspects of these problems. He has contributed research to the fields of information retrieval, dimension reduction, and manifold learning and has published in the proceedings of SIGIR, RecSys, CHI, WWW, and the Journal of the American Statistical Association. He also co-taught tutorials at RecSys 2018 and NeurIPS 2020 on metric development.
 
+### Resources
+* [Mixed Methods for Evaluating User Satisfaction (RecSys 2018)](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial)
+* [Beyond Accuracy: Grounding Evaluation Metrics for Human-Machine Learning Systems (NeurIPS 2020)](https://github.com/pchandar/beyond-accuracy-tutorial)
+* [A/B Testing at Scale (SIGIR 2017, KDD 2017)](https://exp-platform.com/2017abtestingtutorial/)
+* [Design for Searching and Finding (CHI 2015)](http://teevan.org/publications/talks/chi15.pptx)
+* [Designing and Analyzing Large Scale Logs Studies (CHI 2011)](http://teevan.org/publications/talks/chi11.pptx)
+* [Understanding & Inferring User Tasks and Needs (WWW 2018)](https://www2018.thewebconf.org/program/tutorials-track/tutorial-222/)
+* [Online User Engagement (KDD 2020)](https://onlineuserengagement.github.io/)
+
 
 <!-- 
 ```markdown
