@@ -132,6 +132,9 @@ color: $antinav;
 {{ if eq site.Params.theme.borders "square" }}
 @extend .rounded-0;
 {{ end }}
+margin: auto;
+border: 3px;
+width: 70%;
 }
 
 // Styling popover to make it a little cozy
