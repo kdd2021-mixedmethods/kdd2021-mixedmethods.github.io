@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Related Tutorials"
 ---
 * [Mixed Methods for Evaluating User Satisfaction (RecSys 2018)](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial)
 * [Beyond Accuracy: Grounding Evaluation Metrics for Human-Machine Learning Systems (NeurIPS 2020)](https://github.com/pchandar/beyond-accuracy-tutorial)
