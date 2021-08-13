@@ -37,7 +37,7 @@ We donno how to have access to a specific page's taxonomies yet. Having that wou
 <div class="container-fluid bg-mat py-3">
   <div class="container-fluid bg-mat py-3" >
     <!-- ranges through each of the content files associated with a particular term and renders the summary.html content view -->
-    {{ range (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate }}
+    {{ range (where site.RegularPages "Type" "in" site.Params.mainSections).ByWeight }}
       <div class="card mb-3">
         <div class="card-body">
           <h2>
