@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Presentation</title>
+      <link>https://kdd2021-mixedmethods.github.io/post/ourslides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdd2021-mixedmethods.github.io/post/ourslides/</guid>
+      <description>Slides from the tutorial can be found here: Mixed Method Development of Evaluation Metrics (KDD 2021).</description>
+    </item>
+    
+    <item>
       <title>Presenters</title>
       <link>https://kdd2021-mixedmethods.github.io/post/presenters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -32,15 +41,6 @@
       
       <guid>https://kdd2021-mixedmethods.github.io/post/resources/</guid>
       <description> Mixed Methods for Evaluating User Satisfaction (RecSys 2018) Beyond Accuracy: Grounding Evaluation Metrics for Human-Machine Learning Systems (NeurIPS 2020) A/B Testing at Scale (SIGIR 2017, KDD 2017) Design for Searching and Finding (CHI 2015) Designing and Analyzing Large Scale Logs Studies (CHI 2011) Understanding &amp;amp; Inferring User Tasks and Needs (WWW 2018) Online User Engagement (KDD 2020)  </description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://kdd2021-mixedmethods.github.io/post/ourslides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kdd2021-mixedmethods.github.io/post/ourslides/</guid>
-      <description>Slides from the tutorial can be found here: Mixed Method Development of Evaluation Metrics (KDD 2021).</description>
     </item>
     
   </channel>
