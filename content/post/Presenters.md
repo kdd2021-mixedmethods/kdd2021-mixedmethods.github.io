@@ -1,6 +1,5 @@
 ---
 title: "Presenters"
-weight: 2
 ---
 [Praveen Chandar](http://pchandar.github.io/) is a researcher at Spotify working on experimentation and evaluation of search \& recommender systems. His research interests are in machine learning, information retrieval, and recommendation systems with a focus on experimentation and evaluation. Praveen received his Ph.D. from the University of Delaware, working on novelty and diversity aspects of search evaluation.  He has published papers at top conferences including SIGIR, KDD, WSDM, WWW, CIKM, CHI, and UAI. He has also served as a program committee member at top conferences such as SIGIR, KDD, WSDM, etc., and has co-taught a tutorial at NeurIPS 2020 on Grounding Evaluation Metrics for Human-Machine learning systems. 
 
