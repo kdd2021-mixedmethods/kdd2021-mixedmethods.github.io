@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kdd2021-mixedmethods.github.io/post/resources/</loc>
+  </url><url>
     <loc>https://kdd2021-mixedmethods.github.io/post/abstract/</loc>
   </url><url>
     <loc>https://kdd2021-mixedmethods.github.io/</loc>
@@ -9,8 +11,6 @@
     <loc>https://kdd2021-mixedmethods.github.io/post/</loc>
   </url><url>
     <loc>https://kdd2021-mixedmethods.github.io/post/presenters/</loc>
-  </url><url>
-    <loc>https://kdd2021-mixedmethods.github.io/post/resources/</loc>
   </url><url>
     <loc>https://kdd2021-mixedmethods.github.io/post/ourslides/</loc>
   </url><url>
