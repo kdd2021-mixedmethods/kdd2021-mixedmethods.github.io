@@ -8,6 +8,24 @@
     <language>en-us</language>
     <copyright>Copyright &amp;#169; 2021. All rights reserved.</copyright><atom:link href="https://kdd2021-mixedmethods.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Slides</title>
+      <link>https://kdd2021-mixedmethods.github.io/post/ourslides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdd2021-mixedmethods.github.io/post/ourslides/</guid>
+      <description>Slides from the tutorial can be found here: Mixed Method Development of Evaluation Metrics (KDD 2021).</description>
+    </item>
+    
+    <item>
+      <title>Presenters</title>
+      <link>https://kdd2021-mixedmethods.github.io/post/presenters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kdd2021-mixedmethods.github.io/post/presenters/</guid>
+      <description>Praveen Chandar is a researcher at Spotify working on experimentation and evaluation of search &amp;amp; recommender systems. His research interests are in machine learning, information retrieval, and recommendation systems with a focus on experimentation and evaluation. Praveen received his Ph.D. from the University of Delaware, working on novelty and diversity aspects of search evaluation. He has published papers at top conferences including SIGIR, KDD, WSDM, WWW, CIKM, CHI, and UAI. He has also served as a program committee member at top conferences such as SIGIR, KDD, WSDM, etc.</description>
+    </item>
+    
+    <item>
       <title>Related Tutorials</title>
       <link>https://kdd2021-mixedmethods.github.io/post/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,24 +41,6 @@
       
       <guid>https://kdd2021-mixedmethods.github.io/post/abstract/</guid>
       <description>Designers of online search and recommendation services often need to develop metrics to assess system performance. This tutorial focuses on mixed methods approaches to developing user-focused evaluation metrics. This starts with choosing how data is logged or how to interpret current logged data, with a discussion of how qualitative insights and design decisions can restrict or enable certain types of logging. When we create a metric from that logged data, there are underlying assumptions about how users interact with the system and evaluate those interactions.</description>
-    </item>
-    
-    <item>
-      <title>Presenters</title>
-      <link>https://kdd2021-mixedmethods.github.io/post/presenters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kdd2021-mixedmethods.github.io/post/presenters/</guid>
-      <description>Praveen Chandar is a researcher at Spotify working on experimentation and evaluation of search &amp;amp; recommender systems. His research interests are in machine learning, information retrieval, and recommendation systems with a focus on experimentation and evaluation. Praveen received his Ph.D. from the University of Delaware, working on novelty and diversity aspects of search evaluation. He has published papers at top conferences including SIGIR, KDD, WSDM, WWW, CIKM, CHI, and UAI. He has also served as a program committee member at top conferences such as SIGIR, KDD, WSDM, etc.</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://kdd2021-mixedmethods.github.io/post/ourslides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kdd2021-mixedmethods.github.io/post/ourslides/</guid>
-      <description>Slides from the tutorial can be found here: Mixed Method Development of Evaluation Metrics (KDD 2021).</description>
     </item>
     
   </channel>
